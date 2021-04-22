@@ -1,0 +1,12 @@
+C:\Users\Younis\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csprojAssemblyReference.cache
+C:\Users\Younis\source\repos\Scrapper\Scrapper\bin\Debug\Scrapper.exe.config
+C:\Users\Younis\source\repos\Scrapper\Scrapper\bin\Debug\Scrapper.exe
+C:\Users\Younis\source\repos\Scrapper\Scrapper\bin\Debug\Scrapper.pdb
+C:\Users\Younis\source\repos\Scrapper\Scrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Younis\source\repos\Scrapper\Scrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Younis\source\repos\Scrapper\Scrapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Younis\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csproj.ResolveComReference.cache
+C:\Users\Younis\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\Younis\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csproj.CopyComplete
+C:\Users\Younis\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.exe
+C:\Users\Younis\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.pdb
